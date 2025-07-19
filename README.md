@@ -1,9 +1,11 @@
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
-![Sistema](https://img.shields.io/badge/linux-x64-green)
+![Sistema](https://img.shields.io/badge/SO-Kali%20Linux%20Rolling-red)
+![Arquitectura](https://img.shields.io/badge/arquitectura-x86%20%7C%20x64-brightgreen)
 ![Licencia](https://img.shields.io/badge/licencia-Privada-red)
-![Uso](https://img.shields.io/badge/uso-solo%20legal-important)
-![Python](https://img.shields.io/badge/python-3.7%2B-yellow)
-![Tested on](https://img.shields.io/badge/tested%20on-Windows%2010%2F11%20%7C%20Ubuntu%2022.04-blue)
+![Uso ético](https://img.shields.io/badge/uso-solo%20legal%20%7C%20educativo-important)
+![Shell](https://img.shields.io/badge/lenguaje-Bash-lightgrey)
+![Dependencias](https://img.shields.io/badge/dependencias-hostapd%20%7C%20dnsmasq%20%7C%20php-yellow)
+![Probado en](https://img.shields.io/badge/probado%20en-Kali%20Linux%202022.4%2B-blue)
 
 <p align="center">
   <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
