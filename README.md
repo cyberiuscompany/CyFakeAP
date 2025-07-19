@@ -46,15 +46,17 @@ Herramienta para desplegar un Rogue Access Point con plantillas falsas para capt
   <img src="Foto1.png" alt="Foto 1" width="1200"/>
 </p>
 
-<h2 align="center">Foto 2</h2>
+<h2 align="center">Ejemplo de red Wi-Fi Desplegada y visible desde un Móvil Android</h2>
 <p align="center">
-  <img src="Foto2" alt="Foto 2" width="500"/>
+  <img src="Foto2.png" alt="Foto 2" width="500"/>
 </p>
 
-<h2 align="center">Foto 3</h2>
-<p align="center">
-  <img src="Foto3" alt="Foto 3" width="500"/>
-</p>
+<h2 align="center">Ejemplo Credenciales Capturadas con Portal Falso de Google</h2>
+<div align="center">
+  <img src="Foto3.1.png" alt="Foto 3.1" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="Foto3.2.jpg" alt="Foto 3.2" width="45%" style="display:inline-block;"/>
+</div>
+
 
 
 ## Descripción
