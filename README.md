@@ -39,11 +39,11 @@ Herramienta para desplegar un Rogue Access Point con plantillas falsas para capt
 
 ---
 
-## Fotos de Herramienta
+## Importante *Antes de empezar* poner la antena en modo monitor
 
 <h2 align="center">Foto 1</h2>
 <p align="center">
-  <img src="Foto1" alt="Foto 1" width="500"/>
+  <img src="Foto1.png" alt="Foto 1" width="500"/>
 </p>
 
 <h2 align="center">Foto 2</h2>
