@@ -152,17 +152,65 @@ CyFakeAP/
 | 🚉 Train / Metro Stations     | High                 | High                      | Mass environments, phones reconnecting automatically            |
 | 🏨 Hotels                    | Medium               | Medium                    | Users think it's the hotel network                              |
 
-## ⚙️ Step 0: Set Interface to Monitor Mode
+## ⚙️ Step 0: Set Interface to Monitor Mode 📡
 
 ```bash
-iwconfig
 # Check if "Mode: Managed"
-# Then:
-sudo airmon-ng start wlan0
-# Optional: airmon-ng check kill (to stop interfering processes)
+
+──(kali㉿kali)-[~]
+└─$ iwconfig
+lo        no wireless extensions.
+
+eth0      no wireless extensions.
+
+docker0   no wireless extensions.
+
+wlan0     IEEE 802.11  ESSID:off/any  
+          🚨Mode:Managed🚨  Access Point: Not-Associated   Tx-Power=20 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:off
 ```
 
-## ⚙️ Step 1: Basic Installation on Kali Linux
+```bash
+# Setting the antenna in "Mode:Monitor"
+
+┌──(kali㉿kali)-[~]
+└─$ sudo airmon-ng start wlan0
+
+Found 2 processes that could cause trouble.
+Kill them using 'airmon-ng check kill' before putting
+the card in monitor mode, they will interfere by changing channels
+and sometimes putting the interface back in managed mode
+
+    PID Name
+   1026 NetworkManager
+ 333413 wpa_supplicant
+
+PHY     Interface       Driver          Chipset
+
+phy1    wlan0           ath9k_htc       Qualcomm Atheros Communications AR9271 802.11n
+                (mac80211 monitor mode vif enabled for [phy1]wlan0 on [phy1]wlan0mon)
+                (mac80211 station mode vif disabled for [phy1]wlan0)
+
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~]
+└─$ iwconfig
+lo        no wireless extensions.
+
+eth0      no wireless extensions.
+
+docker0   no wireless extensions.
+
+wlan0mon  IEEE 802.11  🚨Mode:Monitor🚨  Frequency:2.457 GHz  Tx-Power=20 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:off
+          
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~]
+└─$ 
+```
+
+## ⚙️ Step 1: Basic Installation on Kali Linux 🐧
 
 ```bash
 git clone https://github.com/cyberiuscompany/CyFakeAP.git
