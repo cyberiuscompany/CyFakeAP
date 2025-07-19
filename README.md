@@ -155,25 +155,11 @@ CyFakeAP/
 
 ---
 
-## ⚙️ 1.1 Instalación básica con clonado 🪟 Windows
+## ⚙️ 1 Instalación básica con clonado 🐧 Linux
 
 ```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
-python -m venv venv (No es obligatorio este comando)
-.\venv\Scripts\activate (No es obligatorio este comando)
-pip install -r requirements.txt
-python NOMBRE-HERRAMIENTA
-```
-
-## ⚙️ 1.2 Instalación básica con clonado 🐧 Linux / macOS
-
-```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
-python3 -m venv venv (No es obligatorio este comando)
-source venv/bin/activate (No es obligatorio este comando)
-pip install -r requirements.txt
+git clone https://github.com/cyberiuscompany/CyFakeAP.git
+cd CyFakeAP
 python3 NOMBRE-HERRAMIENTA
 ```
 
