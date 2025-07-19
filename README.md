@@ -41,7 +41,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 
 ## Fotografías de la Herramienta
 
-<h2 align="center">Importante *Antes de empezar* poner la antena en modo monitor</h2>
+<h2 align="center">Importante *Antes de empezar* poner la 📡Antena📡 en modo monitor</h2>
 <p align="center">
   <img src="Foto1.png" alt="Foto 1" width="1200"/>
 </p>
