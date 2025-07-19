@@ -66,7 +66,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 </div>
 
 
-## 🌐 ¿Qué hacen los dispositivos al conectarse a la red `wifiGratis` les lleve al Login de manera automatica?
+## 🌐 ¿Qué hacen que los dispositivos al conectarse a la red `wifiGratis` les lleve al Login de manera automatica?
 
 Cuando una víctima se conecta al punto de acceso falso `wifiGratis`, su dispositivo **intenta comprobar si hay acceso a Internet real**. Esto lo hace accediendo automáticamente a ciertas direcciones específicas, sin que el usuario lo sepa, dependiendo del sistema operativo, estas son las URLs típicas que se usan para esa comprobación:
 
