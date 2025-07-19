@@ -8,7 +8,7 @@
 ![Tested on](https://img.shields.io/badge/tested%20on-Kali%20Linux%202022.4%2B-blue)
 
 <p align="center">
-  <a href="https://github.com/cyberiuscompany/plantilla">
+  <a href="https://github.com/cyberiuscompany/CyFakeAP">
     <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
     <strong>Español</strong>
   </a>
