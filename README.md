@@ -151,7 +151,7 @@ CyFakeAP/
 | 🎓 Congresos y eventos tech      | Alta                   | Muy alta                                   | Técnicos con múltiples dispositivos, pero muchos confían en redes WiFi. |
 | 🛍️ Centros comerciales           | Alta                   | Alta                                       | WiFi gratuita común, usuarios conectan sin verificar autenticidad.     |
 | 🚉 Estaciones de tren / metro    | Alta                   | Alta                                       | Ambientes masivos, móviles buscando conexión automática.               |
-| 🏨 Hoteles                       | Media                  | Media  
+| 🏨 Hoteles                       | Media                  | Media                                      | Usuarios se conectan pensando que es la red del hotel.                  |
 
 ---
 
