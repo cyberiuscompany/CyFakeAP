@@ -57,7 +57,7 @@ Tool to deploy a Rogue Access Point (Fake Wi-Fi) with phishing templates for cap
 | Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | High power (2000 mW), ideal for long distances     | [🔗 Link](https://www.google.com/search?q=Signal+King+3070) |
 
 <p align="justify">
-If you can't find any of these models, try searching for them on stores like Amazon, AliExpress, eBay, PCComponentes, or MercadoLibre, making sure the chipset is compatible (AR9271, RTL8812AU, or RT3070); and if you have any questions, ask me directly on my <a href="https://disboard.org/server/1299310806617292922">Cyberius Community server 🔒</a>.
+If you can't find any of these models, try searching for them on stores like Amazon, AliExpress, eBay, Wallapop, PCComponentes, or MercadoLibre, making sure the chipset is compatible (AR9271, RTL8812AU, or RT3070); and if you have any questions, ask me directly on my <a href="https://disboard.org/server/1299310806617292922">Cyberius Community server 🔒</a>.
 </p>
 
 ### Example of Fake Wi-Fi visible on Android and iPhone
