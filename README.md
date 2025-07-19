@@ -155,23 +155,11 @@ CyFakeAP/
 
 ---
 
-## ⚙️ 1 Instalación básica con clonado 🐧 Linux
+## ⚙️ 1 Instalación básica con clonado en Kali Linux🐧
 
 ```bash
 git clone https://github.com/cyberiuscompany/CyFakeAP.git
 cd CyFakeAP
-python3 NOMBRE-HERRAMIENTA
-```
-
-## ⚙️ 2 Instalación como si fuese paquete profesional
-
-```bash
-git clone..........
-cd NOMBRE-HERRAMIENTA
-python3 -m venv venv (No es obligatorio este comando)
-source venv/bin/activate (No es obligatorio este comando)
-pip install -r requirements.txt
-pip install .
-NOMBRE-HERRAMIENTA
+sudo bash CyWiFakeAP.sh
 ```
 
