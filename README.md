@@ -46,6 +46,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
   <img src="Foto1.png" alt="Foto 1" width="1200"/>
 </p>
 <h2 align="center">Listado de 📡Antena📡 Compatibles con Modo Monitor en Kali Linux</h2>
+
 | Modelo                    | Chipset   | Potencia | Frecuencia         | Velocidad | Firmware       | Max dBm |
 |---------------------------|-----------|----------|---------------------|-----------|----------------|---------|
 | RTL8187L Melon            | RTL8187L  | 1000 mW  | 2.4 GHz (802.11bg)  | 54 Mbps   | -              | 30 dBm  |
