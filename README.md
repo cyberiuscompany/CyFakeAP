@@ -47,30 +47,13 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 </p>
 <h2 align="center">Listado de 📡Antena📡 Compatibles con Modo Monitor en Kali Linux</h2>
 
-| Modelo                    | Chipset   | Potencia | Frecuencia         | Velocidad | Firmware       | Max dBm |
-|---------------------------|-----------|----------|---------------------|-----------|----------------|---------|
-| RTL8187L Melon            | RTL8187L  | 1000 mW  | 2.4 GHz (802.11bg)  | 54 Mbps   | -              | 30 dBm  |
-| AWUS036H PCI              | RTL8187L  | 1000 mW  | 2.4 GHz (802.11bg)  | 54 Mbps   | -              | 30 dBm  |
-| China Noname              | RTL8187L  | 1000 mW  | 2.4 GHz (802.11bg)  | 54 Mbps   | -              | 30 dBm  |
-| AWUS036H                  | RTL8187L  | 1000 mW  | 2.4 GHz (802.11bg)  | 54 Mbps   | -              | 30 dBm  |
-| TL-WN722N                 | AR9271    | 20 mW    | 2.4 GHz (802.11bg)  | 150 Mbps  | 9271.bin       | -       |
-| AWUS036NH A               | AR9271    | 1000 mW  | 2.4 GHz (802.11bg)  | 150 Mbps  | 9271.bin       | -       |
-| AWUS051NH V2              | RT3572    | 500 mW   | 2.4/5.8 GHz (abgn)  | 300 Mbps  | rt2870.bin     | 20 dBm  |
-| China 3572                | RT3572    | -        | 2.4/5.8 GHz (abgn)  | 300 Mbps  | rt2870.bin     | 20 dBm  |
-| AWUS052NH                 | RT3572    | -        | 2.4/5.8 GHz (abgn)  | 300 Mbps  | rt2870.bin     | 20 dBm  |
-| AWUS052NHS                | RT3572    | -        | 2.4/5.8 GHz (abgn)  | 300 Mbps  | rt2870.bin     | 20 dBm  |
-| AWUS036AC                 | RTL8812AU | -        | 2.4/5.8 GHz (ac/an) | 1200 Mbps | -              | 10 dBm  |
-| AWUS036ACH                | RTL8812AU | -        | 2.4/5.8 GHz (ac/an) | 1200 Mbps | -              | 18 dBm  |
-| AWUS036EAC                | RTL8812AU | -        | 2.4/5.8 GHz (ac/an) | 1200 Mbps | -              | 20 dBm  |
-| Panda Pau05               | RT3070    | -        | 2.4 GHz (802.11bg)  | 150 Mbps  | rt2800usb      | 20 dBm  |
-| Signal King 3070          | RT3070    | 2000 mW  | 2.4 GHz (802.11bg)  | 150 Mbps  | rt2870.bin     | 20 dBm  |
-| AWUS036NEH                | RT3070    | 1000 mW  | 2.4 GHz (802.11bg)  | 150 Mbps  | rt2870.bin     | 20 dBm  |
-| Fake Alfa 036 china       | RT3070    | -        | 2.4 GHz (802.11bg)  | 150 Mbps  | rt2870.bin     | 20 dBm  |
-| AWUS036NH R V2            | RTL8188RU | 2000 mW  | 802.11bgn           | 150 Mbps  | -              | -       |
-| ASUS rtl8192CU            | RTL8192   | -        | 2.4 GHz             | 150 Mbps  | rtl8192cufw.bin| 20 dBm  |
-| tplink wn8200nd rtl8192cu | RTL8192   | -        | 2.4 GHz             | 150 Mbps  | rtl8192cufw.bin| 20 dBm  |
-| AWUS051NH V1              | RT2770    | 500 mW   | 2.4/5.8 GHz         | -         | -              | 20 dBm  |
-
+| Modelo           | Chipset    | Frecuencia       | Velocidad  | Comentario destacado                                  |
+|------------------|------------|------------------|------------|--------------------------------------------------------|
+| AWUS036ACH       | RTL8812AU  | 2.4 / 5.8 GHz     | 1200 Mbps  | Dual band, potente, ideal para redes modernas (ac)     |
+| TL-WN722N (v1)   | AR9271     | 2.4 GHz           | 150 Mbps   | Muy compatible, económica y fácil de configurar        |
+| AWUS036NH A      | AR9271     | 2.4 GHz           | 150 Mbps   | Más potencia que la TL-WN722N, misma compatibilidad    |
+| AWUS036NEH       | RT3070     | 2.4 GHz           | 150 Mbps   | Compacta, confiable, buena relación tamaño/rendimiento |
+| Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | Alta potencia (2000 mW), excelente para largas distancias |
 
 <h2 align="center">Ejemplo de red Wi-Fi Desplegada y visible desde un Móvil Android y iPhone</h2>
 <p align="center">
