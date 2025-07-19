@@ -138,6 +138,21 @@ CyFakeAP/
 - [📢 Soporte](.github/SUPPORT.md)
 
 
+## 📍 Mejores Lugares para Lanzar la Herramienta y Capturar Más Contraseñas
+
+| 🏷️ Lugar                          | 🎯 Potencial de Éxito | 🔐 Probabilidad de Captura de Contraseñas | 💬 Justificación                                                         |
+|----------------------------------|------------------------|-------------------------------------------|-------------------------------------------------------------------------|
+| 🚌 Estaciones de autobuses       | Alta                   | Muy alta                                  | Muchos usuarios aburridos, sin datos móviles, conectan sin pensar.      |
+| ✈️ Aeropuertos                    | Muy alta               | Alta                                       | Gente extranjera buscando WiFi gratis rápidamente.                      |
+| 🏫 Universidades / Bibliotecas   | Alta                   | Alta                                       | Muchísimos dispositivos y usuarios jóvenes menos precavidos.            |
+| ☕ Cafeterías y bares             | Media                  | Alta                                       | Red habitual de gente que revisa el correo o redes sociales.           |
+| 🏥 Hospitales / Centros de salud | Alta                   | Media                                      | Usuarios distraídos, esperando, con tiempo libre.                      |
+| 🏢 Oficinas compartidas (cowork) | Alta                   | Alta                                       | Muchos dispositivos, WiFi abierta o sin vigilancia.                    |
+| 🎓 Congresos y eventos tech      | Alta                   | Muy alta                                   | Técnicos con múltiples dispositivos, pero muchos confían en redes WiFi. |
+| 🛍️ Centros comerciales           | Alta                   | Alta                                       | WiFi gratuita común, usuarios conectan sin verificar autenticidad.     |
+| 🚉 Estaciones de tren / metro    | Alta                   | Alta                                       | Ambientes masivos, móviles buscando conexión automática.               |
+| 🏨 Hoteles                       | Media                  | Media  
+
 ---
 
 ## ⚙️ 1.1 Instalación básica con clonado 🪟 Windows
