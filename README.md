@@ -57,7 +57,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 | Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | Alta potencia (2000 mW), ideal para largas distancias     | [🔗 Link](https://www.google.com/search?q=Signal+King+3070) |
 
 <p align="justify">
-Si no encuentras alguno de estos modelos, prueba a buscarlos en tiendas como Amazon, AliExpress, eBay, PCComponentes o MercadoLibre, asegurándote de que el chipset sea compatible (AR9271, RTL8812AU o RT3070); y si tienes dudas, pregúntame directamente en mi servidor de <a href="https://disboard.org/server/1299310806617292922">Cyberius Community 🔒</a>.
+Si no encuentras alguno de estos modelos, prueba a buscarlos en tiendas como Amazon, AliExpress, eBay, PCComponentes, Wallapop o MercadoLibre, asegurándote de que el chipset sea compatible (AR9271, RTL8812AU o RT3070); y si tienes dudas, pregúntame directamente en mi servidor de <a href="https://disboard.org/server/1299310806617292922">Cyberius Community 🔒</a>.
 </p>
 
 
