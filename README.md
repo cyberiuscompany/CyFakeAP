@@ -47,13 +47,15 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 </p>
 <h2 align="center">Listado de 📡Antena📡 Compatibles con Modo Monitor en Kali Linux</h2>
 
-| Modelo           | Chipset    | Frecuencia       | Velocidad  | Comentario destacado                                  |
-|------------------|------------|------------------|------------|--------------------------------------------------------|
-| AWUS036ACH       | RTL8812AU  | 2.4 / 5.8 GHz     | 1200 Mbps  | Dual band, potente, ideal para redes modernas (ac)     |
-| TL-WN722N (v1)   | AR9271     | 2.4 GHz           | 150 Mbps   | Muy compatible, económica y fácil de configurar        |
-| AWUS036NH A      | AR9271     | 2.4 GHz           | 150 Mbps   | Más potencia que la TL-WN722N, misma compatibilidad    |
-| AWUS036NEH       | RT3070     | 2.4 GHz           | 150 Mbps   | Compacta, confiable, buena relación tamaño/rendimiento |
-| Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | Alta potencia (2000 mW), excelente para largas distancias |
+
+| Modelo           | Chipset    | Frecuencia       | Velocidad  | Comentario destacado                                     | Compra     |
+|------------------|------------|------------------|------------|-----------------------------------------------------------|------------|
+| AWUS036ACH       | RTL8812AU  | 2.4 / 5.8 GHz     | 1200 Mbps  | Dual band, potente, ideal para redes modernas (ac)        | [🔗 Link](https://www.amazon.com/dp/B00VEEBOPG) |
+| TL-WN722N (v1)   | AR9271     | 2.4 GHz           | 150 Mbps   | Muy compatible, económica y fácil de configurar           | [🔗 Link](https://www.google.com/search?q=tl-wn722n+(v1)) |
+| AWUS036NH A      | AR9271     | 2.4 GHz           | 150 Mbps   | Más potencia que la TL-WN722N, misma compatibilidad       | [🔗 Link](https://www.amazon.es/dp/B00358XUC4) |
+| AWUS036NEH       | RT3070     | 2.4 GHz           | 150 Mbps   | Compacta, confiable, buena relación tamaño/rendimiento    | [🔗 Link](https://www.amazon.es/dp/B0035OCVO6) |
+| Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | Alta potencia (2000 mW), ideal para largas distancias     | [🔗 Link](https://www.google.com/search?q=Signal+King+3070) |
+
 
 <h2 align="center">Ejemplo de red Wi-Fi Desplegada y visible desde un Móvil Android y iPhone</h2>
 <p align="center">
