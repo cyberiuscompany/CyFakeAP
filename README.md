@@ -168,7 +168,7 @@ eth0      no wireless extensions.
 docker0   no wireless extensions.
 
 wlan0     IEEE 802.11  ESSID:off/any  
-          Mode:Managed  Access Point: Not-Associated   Tx-Power=20 dBm   
+          🚨Mode:Managed🚨  Access Point: Not-Associated   Tx-Power=20 dBm   
           Retry short limit:7   RTS thr:off   Fragment thr:off
           Power Management:off
 ```
@@ -203,7 +203,7 @@ eth0      no wireless extensions.
 
 docker0   no wireless extensions.
 
-wlan0mon  IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=20 dBm   
+wlan0mon  IEEE 802.11  🚨Mode:Monitor🚨  Frequency:2.457 GHz  Tx-Power=20 dBm   
           Retry short limit:7   RTS thr:off   Fragment thr:off
           Power Management:off
           
