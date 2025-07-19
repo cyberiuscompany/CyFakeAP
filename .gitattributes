@@ -1,0 +1,135 @@
+# ==============================
+# 🧠 Forzar reconocimiento de lenguajes comunes
+# ==============================
+
+*.html          linguist-language=HTML
+*.htm           linguist-language=HTML
+*.css           linguist-language=CSS
+*.js            linguist-language=JavaScript
+*.ts            linguist-language=TypeScript
+*.json          linguist-language=JSON
+*.md            linguist-language=Markdown
+*.py            linguist-language=Python
+*.sh            linguist-language=Shell
+*.bash          linguist-language=Shell
+*.zsh           linguist-language=Shell
+*.bat           linguist-language=Batchfile
+*.ps1           linguist-language=PowerShell
+*.yml           linguist-language=YAML
+*.yaml          linguist-language=YAML
+*.ini           linguist-language=INI
+*.conf          linguist-language=INI
+*.cfg           linguist-language=INI
+*.env           linguist-language=INI
+*.toml          linguist-language=TOML
+*.editorconfig  linguist-language=INI
+
+# C y C++
+*.c             linguist-language=C
+*.cpp           linguist-language=C++
+*.cxx           linguist-language=C++
+*.cc            linguist-language=C++
+*.h             linguist-language=C
+*.hpp           linguist-language=C++
+*.hh            linguist-language=C++
+
+# C#
+*.cs            linguist-language=C#
+
+# Java
+*.java          linguist-language=Java
+*.class         linguist-language=Java
+
+# .NET y derivados
+*.csproj        linguist-language=XML
+*.sln           linguist-language=Text
+*.vb            linguist-language=Visual Basic
+
+# Ruby
+*.rb            linguist-language=Ruby
+*.erb           linguist-language=HTML
+
+# PHP
+*.php           linguist-language=PHP
+
+# Go
+*.go            linguist-language=Go
+
+# Rust
+*.rs            linguist-language=Rust
+
+# Swift
+*.swift         linguist-language=Swift
+
+# Kotlin
+*.kt            linguist-language=Kotlin
+*.kts           linguist-language=Kotlin
+
+# Lua
+*.lua           linguist-language=Lua
+
+# Dart
+*.dart          linguist-language=Dart
+
+# ==============================
+# 📁 Documentación y medios (no código)
+# ==============================
+
+*.png           linguist-documentation
+*.jpg           linguist-documentation
+*.jpeg          linguist-documentation
+*.gif           linguist-documentation
+*.svg           linguist-documentation
+*.ico           linguist-documentation
+*.mp4           linguist-documentation
+*.webm          linguist-documentation
+*.pdf           linguist-documentation
+*.zip           linguist-documentation
+*.log           linguist-documentation
+logs/*          linguist-documentation
+*.db            linguist-documentation
+
+# ==============================
+# 📊 Archivos de datos
+# ==============================
+
+*.csv           linguist-language=CSV
+*.txt           linguist-language=Text
+
+# ==============================
+# 🚀 Scripts ejecutables
+# ==============================
+
+*.command       linguist-language=Shell
+
+# ==============================
+# 🐳 Docker / DevOps
+# ==============================
+
+Dockerfile      linguist-language=Dockerfile
+.Dockerfile     linguist-language=Dockerfile
+
+# ==============================
+# 🧪 Archivos generados a ignorar
+# ==============================
+
+*.pyc           linguist-generated
+__pycache__/*   linguist-generated
+*.lock          linguist-generated
+node_modules/*  linguist-generated
+
+# ==============================
+# 🔐 Archivos sensibles (texto plano)
+# ==============================
+
+*.key           linguist-language=Text
+*.pem           linguist-language=Text
+*.crt           linguist-language=Text
+
+# ==============================
+# 📌 Reglas por directorio (ajustable)
+# ==============================
+
+/frontend/*     linguist-language=JavaScript
+/backend/*      linguist-language=Python
+/scripts/*      linguist-language=Shell
