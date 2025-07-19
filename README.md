@@ -34,7 +34,7 @@ Herramienta para desplegar un Rogue Access Point con plantillas falsas para capt
 ## 🎥 Demostración
 
 <p align="center">
-  <img src="docs/Demo.gif" width="1200" alt="Demostración de CyberiusUnzipCracker">
+  <img src="Demo.gif" width="1200" alt="Demostración de CyFakeAp">
 </p>
 
 ---
