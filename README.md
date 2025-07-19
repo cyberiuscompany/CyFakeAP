@@ -74,15 +74,28 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 
 ## 🚀 Funcionalidades principales
 
-- RELLENAR.
-- RELLENAR.
-- RELLENAR.
+- 🔐 **Captura de credenciales** a través de portales falsos (Google y Facebook)
+- 🧼 **Limpieza automática del entorno** y restauración de la red al salir
+- 🗃️ **Almacenamiento de credenciales capturadas** en `datos-privados.txt`
+- 🧠 **Detección de errores comunes** y sugerencias al usuario
+- 🧩 **Modo interactivo GUI (whiptail)** o modo por parámetros
+- 📊 **Monitorización en tiempo real** de víctimas conectadas
+- 📡 **Emisión de SSID personalizado** en el canal elegido
+- 📁 **Logs y configuraciones temporales** autogenerados
+- 🌐 **Creación de Rogue Access Point** con `hostapd`
 
 ## 🧰 Tecnologías utilizadas
 
-- RELLENAR.
-- RELLENAR.
-- RELLENAR.
+| Herramienta       | Función                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| `bash`            | Script principal y lógica de control                                    |
+| `hostapd`         | Emisión del punto de acceso WiFi falso                                  |
+| `dnsmasq`         | Servidor DHCP y redirección DNS al portal falso                         |
+| `php`             | Servidor local para alojar la plantilla de phishing                     |
+| `iptables/route`  | Gestión de red para enrutar tráfico hacia el servidor local             |
+| `whiptail`        | Interfaz gráfica ligera para el modo interactivo (menús, inputs)        |
+| `airmon-ng`       | Herramienta externa usada para poner la interfaz en modo monitor        |
+| `ifconfig/iwconfig` | Gestión directa de interfaces de red y modos de operación             |
 
 ## 📁 Estructura del proyecto
 
