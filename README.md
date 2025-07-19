@@ -22,14 +22,8 @@
   </a>
 </p>
 
-# Plantilla
-Este es la plantilla que utilizo para la creación de mis proyectos/herramientas de ciberseguridad
-
-Esplicación que hace la herramienta.
-
-- GitHub Pages si la herramienta tiene: https://cyberiuscompany.github.io/NOMBRE-HERRAMIENTA
-- DeepWiki de la herramienta: https://deepwiki.com/RELLENAR+INDEXAR
----
+# CyFakeAP
+Herramienta para desplegar un Rogue Access Point con plantillas falsas para captura de credenciales de Google y Facebook
 
 <p align="center">
   <img src="icono.png" alt="Banner" width="500"/>
