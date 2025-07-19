@@ -45,6 +45,20 @@ Tool to deploy a Rogue Access Point (Fake Wi-Fi) with phishing templates for cap
 <p align="center">
   <img src="Foto1.png" alt="Step 1" width="1200"/>
 </p>
+<h2 align="center">List of 📡Antenna📡 Compatible with Monitor Mode in Kali Linux</h2>
+
+
+| Model           | Chipset    | Frequency       | Speed  | Featured comment                                     | Buys     |
+|------------------|------------|------------------|------------|-----------------------------------------------------------|------------|
+| AWUS036ACH       | RTL8812AU  | 2.4 / 5.8 GHz     | 1200 Mbps  | Dual band, powerful, ideal for modern networks (ac)        | [🔗 Link](https://www.amazon.com/dp/B00VEEBOPG) |
+| TL-WN722N (v1)   | AR9271     | 2.4 GHz           | 150 Mbps   | Highly compatible, economical and easy to set up           | [🔗 Link](https://www.google.com/search?q=tl-wn722n+(v1)) |
+| AWUS036NH A      | AR9271     | 2.4 GHz           | 150 Mbps   | More powerful than TL-WN722N, same compatibility       | [🔗 Link](https://www.amazon.es/dp/B00358XUC4) |
+| AWUS036NEH       | RT3070     | 2.4 GHz           | 150 Mbps   | Compact, reliable, good size/performance ratio    | [🔗 Link](https://www.amazon.es/dp/B0035OCVO6) |
+| Signal King 3070 | RT3070     | 2.4 GHz           | 150 Mbps   | High power (2000 mW), ideal for long distances     | [🔗 Link](https://www.google.com/search?q=Signal+King+3070) |
+
+<p align="justify">
+If you can't find any of these models, try searching for them on stores like Amazon, AliExpress, eBay, PCComponentes, or MercadoLibre, making sure the chipset is compatible (AR9271, RTL8812AU, or RT3070); and if you have any questions, ask me directly on my <a href="https://disboard.org/server/1299310806617292922">Cyberius Community server 🔒</a>.
+</p>
 
 ### Example of Fake Wi-Fi visible on Android and iPhone
 <p align="center">
