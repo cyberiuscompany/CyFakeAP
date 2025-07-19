@@ -51,6 +51,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 
 <h2 align="center">Ejemplo de Credenciales Capturadas con Portal Falso de Google</h2>
 <p align="center"><em>Este panel de login de Google se le abre al usuario de manera automatica y obligatario, nada mas pinchar el botón de  conectarse a la Wi-Fi.</em></p>
+<p align="center"><em>🚨 **Recomiendación:** Recuerda que puedes editar las plantillas de Login a tu gusto. </em></p>
 <div align="center">
   <img src="Foto3.1.png" alt="Foto 3.1" height="700px" style="display:inline-block; margin-right:10px; border: 1px solid #4f5354; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
   <img src="Foto3.2.jpg" alt="Foto 3.2" height="700px" style="display:inline-block; border: 1px solid #4f5354; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
@@ -58,6 +59,7 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 
 <h2 align="center">Ejemplo de Credenciales Capturadas con Portal Falso de Facebook</h2>
 <p align="center"><em>Este panel de login de Facebook se le abre al usuario de manera automatica y obligatario, nada mas pinchar el botón de  conectarse a la Wi-Fi.</em></p>
+<p align="center"><em>🚨 **Recomiendación:** Recuerda que puedes editar las plantillas de Login a tu gusto. </em></p>
 <div align="center">
   <img src="Foto4.1.png" alt="Foto 3.1" height="700px" style="display:inline-block; margin-right:10px; border: 1px solid #4f5354; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
   <img src="Foto4.2.jpg" alt="Foto 3.2" height="700px" style="display:inline-block; border: 1px solid #4f5354; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
