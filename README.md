@@ -87,9 +87,16 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 ## 📁 Estructura del proyecto
 
 ```bash
-├── fichero.py # Función Principal
-├── fichero.js # Función Principal
-├── fichero.html # Función Principal
+CyFakeAP/
+├── Facebook/ # Plantilla phishing de Facebook
+├── Google/ # Plantilla phishing de Google
+├── images/ # Imágenes de las Plantillas
+├── utilities/ # Scripts adicionales o utilidades de las Plantillas
+├── CyWiFakeAP.sh # Script principal del proyecto
+├── README.md # Documento principal (tú lo estás viendo)
+├── DISCLAIMER.md # Documento de descargo de responsabilidad
+├── banner.txt # Banner tipo ASCII del Script
+└── LICENCE # Licencia de uso
 ```
 ---
 
