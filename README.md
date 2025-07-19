@@ -66,11 +66,26 @@ Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-
 </div>
 
 
-## Descripción
+## 🌐 ¿Qué hacen los dispositivos al conectarse a la red `wifiGratis` les lleve al Login de manera automatica?
 
-**NOMBRE-HERRAMIENTA** es una herramienta.....RELLENAR. 
+Cuando una víctima se conecta al punto de acceso falso `wifiGratis`, su dispositivo **intenta comprobar si hay acceso a Internet real**. Esto lo hace accediendo automáticamente a ciertas direcciones específicas, sin que el usuario lo sepa, dependiendo del sistema operativo, estas son las URLs típicas que se usan para esa comprobación:
 
-Diseñada con un enfoque de ciberseguridad para......RELLENAR.
+- **Android** → `http://clients3.google.com/generate_204`
+- **iOS / macOS** → `http://captive.apple.com`
+- **Windows** → `http://www.msftncsi.com`
+
+Gracias a la configuración de `dnsmasq`, todo el tráfico DNS está redirigido a `192.168.1.1`, que es donde corre el servidor PHP con la plantilla falsa. Es decir:
+
+- No importa la URL que intente abrir el dispositivo, **siempre termina viendo nuestro portal falso (Google o Facebook).**
+- El sistema operativo interpreta va hacia un **portal cautivo**, igual que cuando entras al WiFi de un aeropuerto o cafetería. 
+
+🔄 Flujo de la herramienta: 
+
+1. El usuario se conecta a `wifiGratis`.
+2. El sistema (Android/iPhone) detecta que está detrás de un portal cautivo.
+3. Abre una ventana automáticamente.
+4. Se muestra el login falso preparado por CyFakeAP.
+5. Si el usuario cae en la trampa, sus credenciales se registran en `datos-privados.txt`
 
 ## 🚀 Funcionalidades principales
 
