@@ -23,7 +23,7 @@
 </p>
 
 # CyFakeAP
-Herramienta para desplegar un Rogue Access Point con plantillas falsas para captura de credenciales de Google y Facebook
+Herramienta para desplegar un *Rogue Access Point* o mas conocido, como una "Wi-Fi Falsa" con plantillas falsas para captura de credenciales de Google y Facebook
 
 <p align="center">
   <img src="icono.png" alt="Banner" width="500"/>
